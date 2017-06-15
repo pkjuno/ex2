@@ -18,6 +18,7 @@
 	<li>BUGFIX_1</li>
 	<li>BUGFIX_2</li>
 	<li>master</li>
+	<li>Conflict_1</li>
 </ul>
 </body>
 </html>
