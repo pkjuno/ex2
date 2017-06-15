@@ -14,6 +14,7 @@
 <ul>
 	<li>junho</li>
 	<li>BUGFIX_1</li>
+	<li>BUGFIX_2</li>
 </ul>
 </body>
 </html>
