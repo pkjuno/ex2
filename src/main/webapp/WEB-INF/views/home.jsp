@@ -20,5 +20,7 @@
 	<li>master</li>
 	<li>Conflict_1</li>
 </ul>
+<hr>
+<a href="notice/noticeList">NoticeList</a>
 </body>
 </html>
