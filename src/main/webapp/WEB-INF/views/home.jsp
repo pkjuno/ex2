@@ -17,6 +17,7 @@
 	<li>junho</li>
 	<li>BUGFIX_1</li>
 	<li>BUGFIX_2</li>
+	<li>master</li>
 </ul>
 </body>
 </html>
